@@ -1,0 +1,9 @@
+#letter {
+  display:none;
+  text-align: justify;
+  border-style: groove;
+  border-width: thin;
+  border-color: blue;
+  padding: 5px;
+  margin: 5px;
+}
